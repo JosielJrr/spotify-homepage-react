@@ -3,7 +3,7 @@
 Este projeto foi iniciado na quinta aula da **2ª edição da imersão Front-End da [Alura](https://www.alura.com.br/?srsltid=AfmBOorFKMXxXyiaLOD7mY6jsLzXksRHcAAA5TN4ismZd7wdULvTT3U5)** e concluído por mim. Ele simula a **homepage do Spotify**, proporcionando uma interface semelhante à plataforma de streaming de música. Foi desenvolvido com [React](https://react.dev/) e [Vite](https://vite.dev/), que juntos oferecem uma experiência de desenvolvimento rápida e moderna.
 
 <div align="center">
-  <img src="./src/assets/spotify-homepage-react-img.png" alt="Interface da Aplicação" width=600px>
+  <img src="./src/assets/spotify-homepage-react-img.png" alt="Interface da Aplicação" width=1100px>
 </div>
 
 ## Tecnologias Utilizadas
