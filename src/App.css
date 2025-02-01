@@ -1,0 +1,19 @@
+/* ATUA COMO UM GLOBAL CSS */
+
+:root {
+    /* Fontes */
+    --font-dm-sans: "DM Sans", sans-serif;
+    --sidebar-text-icon-color: #b3b3b3;
+
+    /* Cores */
+    --bg-arrow-color: rgb(0, 0, 07);
+    --bg-container: #121212;
+}
+
+body {
+    background: #000;
+    font-family: var(--font-dm-sans);
+    position: relative;
+    height: 100vh;
+}
+
