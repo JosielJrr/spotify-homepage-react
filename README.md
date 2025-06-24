@@ -30,9 +30,9 @@ npm install
 
 3. Caso não tenha o **JSON Server** instalado globalmente, instale com:
 
-   ```bash
-   npm install -g json-server
-   ```
+```bash
+npm install -g json-server
+```
 
 4. Inicie o JSON Server:
 
